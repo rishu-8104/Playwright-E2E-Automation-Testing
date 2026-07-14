@@ -1,3 +1,4 @@
+![Playwright Tests](https://github.com/rishu-8104/Playwright-E2E-Automation-Testing/actions/workflows/playwright.yml/badge.svg)
 # Playwright TodoMVC Automation Framework
 
 A robust End-to-End (E2E) test automation project demonstrating modern testing practices using Playwright with JavaScript against a React Application.
